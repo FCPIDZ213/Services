@@ -1,15 +1,15 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'genznodes',
+  name: 'DZ-staking',
 
-  origin: 'https://genznodes.dev',
+  origin: 'https://dz_staking.com',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'genznodes - staking service provider',
+  title: 'DZ-staking service provider',
   description:
-    '🚀 Relayer and Staking Service Provider for Cosmos Ecosystem',
+    '⚡ Relayer and Staking Service Provider',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
